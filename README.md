@@ -4,14 +4,17 @@ This project aims to develop an AI agent capable of autonomously playing the gam
 
 ## Screenshots
 
-**Manual Gameplay**
-![Manual Gameplay](assets\manual.png)
+- **Manual Gameplay**
 
-**NEAT Training**
-![Training](assets\Neat_Training.png)
+<img src="https://github.com/Shankjbs571/flappyAI/blob/fromayu/assets/manual.png" alt="Manual Gameplay" width="600">
 
-**Line Graph**
-![Visualization](assets\Visualization.png)
+- **NEAT Training**
+
+<img src="https://github.com/Shankjbs571/flappyAI/blob/fromayu/assets/Neat_Training.png?raw=true" alt="Manual Gameplay" width="600">
+
+- **Line Graph**
+
+<img src="https://github.com/Shankjbs571/flappyAI/blob/fromayu/assets/Visualization.png" alt="Manual Gameplay" width="600">
 
 
 
