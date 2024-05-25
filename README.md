@@ -1,6 +1,19 @@
 # Flappy AI Project
 
-This project aims to develop an AI agent capable of autonomously playing the game Flappy Bird using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm. The agent learns optimal strategies for navigating the game environment and achieving high scores through reinforcement learning.
+This project aims to develop an AI agent capable of autonomously playing the game Flappy Bird using the [NEAT](https://neat-python.readthedocs.io/en/latest/neat_overview.html) (NeuroEvolution of Augmenting Topologies) algorithm. The agent learns optimal strategies for navigating the game environment and achieving high scores through reinforcement learning.
+
+## Screenshots
+
+**Manual Gameplay**
+![Manual Gameplay](assets\manual.png)
+
+**NEAT Training**
+![Training](assets\Neat_Training.png)
+
+**Line Graph**
+![Visualization](assets\Visualization.png)
+
+
 
 ## Project Structure
 
@@ -18,12 +31,12 @@ This project aims to develop an AI agent capable of autonomously playing the gam
      ```
    - Use the spacebar key to control the bird's flap and navigate through the pipes.
 
-2. **Training the NEAT Model**:
-   - To train the NEAT model, use the following command:
+2. **Training the Neural Network**:
+   - To train, use the following command:
      ```
-     python neat_game.py
+      python neat_game.py
      ```
-   - This will start the training process, where the AI agent learns to play Flappy Bird autonomously.
+   - This will start the training process, where the Neural Network learns to play Flappy Bird by Augmenting Topologies.
 
 3. **Visualization**:
    - After training, you can visualize the results after TOTAL_GEN have completed
@@ -33,6 +46,7 @@ This project aims to develop an AI agent capable of autonomously playing the gam
 - Python 3.x
 - NEAT Python library
 - Pygame library
+- Matplotlib library
 
 ## Future Scope
 - Implementing more advanced neural network architectures, such as CNNs or RNNs, could enhance the AI's ability to learn and improve its gameplay.
