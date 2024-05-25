@@ -1,5 +1,4 @@
-pygame==2.5.2
-
-numpy
+pygame
 neat-python
+matplotlib == 3.9.0
 
